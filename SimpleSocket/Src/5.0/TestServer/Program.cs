@@ -6,7 +6,9 @@ namespace TestServer
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var server = new Server_2021_1015();
+            server.Start();
+            Console.ReadLine();
         }
     }
 }

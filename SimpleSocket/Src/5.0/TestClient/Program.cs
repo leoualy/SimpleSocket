@@ -7,9 +7,9 @@ namespace TestClient
     {
         static void Main(string[] args)
         {
-            ITcp tcp = new Tcp_NET5_Fixed_Syn();
-
-            
+            var client = new Client_2021_1015();
+            client.Send("msg message1");
+            Console.ReadLine();
         }
     }
 }
