@@ -5,3 +5,8 @@
 /SimpleSocket/.vs/SimpleSocket/v16
 /SimpleSocket/build/net5.0
 /SimpleSocket/Src/5.0/SimpleTcp/obj
+/SimpleSocket/Src/5.0/TestClient/bin/Debug/net5.0
+/SimpleSocket/Src/5.0/TestClient/obj
+/SimpleSocket/Src/5.0/TestServer/bin/Debug/net5.0
+/SimpleSocket/Src/5.0/TestServer/obj
+/SimpleSocket/.vs/SimpleSocket/DesignTimeBuild
